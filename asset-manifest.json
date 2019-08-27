@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kfwlab/static/css/main.2cce8147.chunk.css",
+    "main.js": "/kfwlab/static/js/main.e689a144.chunk.js",
+    "main.js.map": "/kfwlab/static/js/main.e689a144.chunk.js.map",
+    "runtime~main.js": "/kfwlab/static/js/runtime~main.a4fe7523.js",
+    "runtime~main.js.map": "/kfwlab/static/js/runtime~main.a4fe7523.js.map",
+    "static/js/2.95ea124f.chunk.js": "/kfwlab/static/js/2.95ea124f.chunk.js",
+    "static/js/2.95ea124f.chunk.js.map": "/kfwlab/static/js/2.95ea124f.chunk.js.map",
+    "index.html": "/kfwlab/index.html",
+    "precache-manifest.172d35e6ab981b60a97351c7ae8ac45c.js": "/kfwlab/precache-manifest.172d35e6ab981b60a97351c7ae8ac45c.js",
+    "service-worker.js": "/kfwlab/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/kfwlab/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/kfwlab/static/media/logo.5d5d9eef.svg"
+  }
+}
